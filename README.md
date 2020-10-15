@@ -1,5 +1,5 @@
-### Hi there, I'm Preveen Raj 👋
-
+### Hi there, I'm Preveen Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=preveenraj.preveenraj)
 ## A Human Being, also a Full Stack Developer!!  
 
 - 🌱 I’m currently learning to live myself out the max. 🏄
@@ -44,7 +44,7 @@
 
 [![Top Langs](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=preveenraj&langs_count=10&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.preveenraj.vercel.app/api/wakatime?username=preveenraj)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.preveenraj.vercel.app/api/wakatime?username=preveenraj&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://preveenraj.com
 [twitter]: https://twitter.com/preveen_raj
