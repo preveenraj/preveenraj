@@ -1,5 +1,6 @@
 ### Hi there, I'm Preveen Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=preveenraj.preveenraj)
+[![Years Badge](https://badges.pufler.dev/years/preveenraj)](https://badges.pufler.dev)
 ## A Human Being, also a Full Stack Developer!!  
 
 - 🌱 I’m currently learning to live myself out the max. 🏄
