@@ -43,9 +43,9 @@
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=preveenraj&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&text_color=3498db" />
 <!-- </details> -->
 
-[![Top Langs](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=preveenraj&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=preveenraj&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.preveenraj.vercel.app/api/wakatime?username=preveenraj&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.preveenraj.vercel.app/api/wakatime?username=preveenraj&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
 
 [website]: https://preveenraj.com
 [twitter]: https://twitter.com/preveen_raj
