@@ -1,5 +1,4 @@
 ### Hi there, I'm Preveen Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=preveenraj.preveenraj)
 [![Years Badge](https://badges.pufler.dev/years/preveenraj)](https://badges.pufler.dev)
 
  <a href="https://twitter.com/intent/follow?screen_name=preveen_raj">
@@ -9,8 +8,8 @@
 ## A Human Being, also a Full Stack Developer!!  
 
 - 🌱 I’m currently learning to live myself out the max. 🏄
-- 🥅 2021 Goals: Contributing to Open Source projects.
-- ⚡ Fun fact: I love to go for a drive, skate and play guitar.
+- 🥅 2023 Goals: Developing products that will add value to the world.
+- ⚡ Fun fact: I'm a big fan of the products I build and then myself.
 - 💬 Ask me about what's happening in Kerala, that's my native place.
 
 ### Connect with me:
