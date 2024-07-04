@@ -8,7 +8,7 @@
 ## A Human Being, also a Full Stack Developer!!  
 
 - 🌱 I’m currently learning to live myself out the max. 🏄
-- 🥅 2023 Goals: Developing products that will add value to the world.
+- 🥅 2024 Goals: Developing products that will add value to the world.
 - ⚡ Fun fact: I'm a big fan of the products I build and then myself.
 - 💬 Ask me about what's happening in Kerala, that's my native place.
 
