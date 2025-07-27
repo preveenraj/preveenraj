@@ -1,15 +1,15 @@
 ### Hi there, I'm Preveen Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-[![Years Badge](https://badges.pufler.dev/years/preveenraj)](https://badges.pufler.dev)
 
  <a href="https://twitter.com/intent/follow?screen_name=preveen_raj">
     <img src="https://img.shields.io/twitter/follow/preveen_raj.svg?label=Follow%20@preveen_raj" alt="Follow @preveen_raj" />
  </a>
   
-## A Human Being, also a Full Stack Developer!!  
+## Engineer. Innovator. Curious Human.
 
-- 🌱 I’m currently learning to live myself out the max. 🏄
-- 🥅 2024 Goals: Developing products that will add value to the world.
-- ⚡ Fun fact: I'm a big fan of the products I build and then myself.
+- 🚀 Dedicated to building products that empower people and deliver real-world value.
+- 🌱 Constantly learning—about tech, leadership, and how to live with intention and impact.
+- 🥅 2025 Goals: Developing products that will add value to the world.
+- ⚡ Fun fact: I strive to love what I build—even more than I love perfecting it.
 - 💬 Ask me about what's happening in Kerala, that's my native place.
 
 ### Connect with me:
