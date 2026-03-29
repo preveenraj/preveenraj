@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=900&height=50&lines=Building+products+that+matter;React+%E2%80%A2+Node+%E2%80%A2+humane+UX;Kerala+%E2%80%94+home;Ship%2C+learn%2C+repeat)](https://github.com/DenverCoder1/readme-typing-svg)
 
-[![Follow @preveen_raj on X](https://img.shields.io/twitter/follow/preveen_raj.svg?label=Follow%20@preveen_raj)](https://twitter.com/intent/follow?screen_name=preveen_raj)  
-![Profile views](https://komarev.com/ghpvc/?username=preveenraj&label=Profile%20views&color=3498db&style=flat)
+[![Follow @preveen_raj on X](https://img.shields.io/twitter/follow/preveen_raj.svg?label=Follow%20@preveen_raj)](https://twitter.com/intent/follow?screen_name=preveen_raj)
 
 ## Engineer. Innovator. Curious human.
 
@@ -28,16 +27,15 @@
 
 ### Languages & tools
 
-<img alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img alt="CSS3" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img alt="JavaScript" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img alt="React" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img alt="Node.js" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img alt="SQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img alt="MySQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img alt="Git" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img alt="Terminal" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+#### Languages & frameworks
+
+[![HTML, CSS, TypeScript, React, Node.js, Python](https://skillicons.dev/icons?i=html,css,typescript,react,nodejs,python&perline=6)](https://skillicons.dev)
+
+#### Data, tooling & shell
+
+[![MySQL, Git, VS Code, Bash, Docker, AWS](https://skillicons.dev/icons?i=mysql,git,vscode,bash,docker,aws&perline=6)](https://skillicons.dev)
+
+*SQL day-to-day: MySQL and general relational SQL.*
 
 <br>
 
