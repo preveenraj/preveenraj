@@ -1,57 +1,62 @@
-### Hi there, I'm Preveen Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+# Hi, I'm Preveen Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="">
 
- <a href="https://twitter.com/intent/follow?screen_name=preveen_raj">
-    <img src="https://img.shields.io/twitter/follow/preveen_raj.svg?label=Follow%20@preveen_raj" alt="Follow @preveen_raj" />
- </a>
-  
-## Engineer. Innovator. Curious Human.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=900&height=50&lines=Building+products+that+matter;React+%E2%80%A2+Node+%E2%80%A2+humane+UX;Kerala+%E2%80%94+home;Ship%2C+learn%2C+repeat)](https://github.com/DenverCoder1/readme-typing-svg)
 
-- 🚀 Dedicated to building products that empower people and deliver real-world value.
-- 🌱 Constantly learning—about tech, leadership, and how to live with intention and impact.
-- 🥅 2025 Goals: Developing products that will add value to the world.
-- ⚡ Fun fact: I strive to love what I build—even more than I love perfecting it.
-- 💬 Ask me about what's happening in Kerala, that's my native place.
+[![Follow @preveen_raj on X](https://img.shields.io/twitter/follow/preveen_raj.svg?label=Follow%20@preveen_raj)](https://twitter.com/intent/follow?screen_name=preveen_raj)  
+![Profile views](https://komarev.com/ghpvc/?username=preveenraj&label=Profile%20views&color=3498db&style=flat)
 
-### Connect with me:
+## Engineer. Innovator. Curious human.
 
-[<img align="left" alt="preveenraj.com" width="22px" src="https://img.icons8.com/cotton/2x/domain.png" />][website]
-[<img align="left" alt="preveenraj | Twitter" width="22px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
-[<img align="left" alt="preveenraj | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
-[<img align="left" alt="preveenraj | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
+- Building products that empower people and deliver real-world value.
+- Always learning—tech, leadership, and how to live with intention and impact.
+- **2026:** Ship products that add real value.
+- I care about loving what I build as much as getting it right.
+- Ask me about Kerala—it’s home.
 
-<br />
+### Focus
 
-### Languages and Tools:
+- Building products that feel useful and humane.
+- Sharpening craft across the stack—React, Node, and the messy edge cases in between.
+- Open to collaborations on products and ideas that put people first.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+### Connect
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!-- <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /> -->
-<!-- <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img alt="Website" width="22" src="https://img.icons8.com/cotton/2x/domain.png">](https://preveenraj.com)
+[<img alt="X (Twitter)" width="22" src="https://img.icons8.com/fluent/2x/twitter.png">](https://twitter.com/preveen_raj)
+[<img alt="LinkedIn" width="22" src="https://img.icons8.com/color/2x/linkedin.png">](https://linkedin.com/in/preveenraj)
+[<img alt="Instagram" width="22" src="https://img.icons8.com/fluent/2x/instagram-new.png">](https://instagram.com/preveen.raj)
 
-<br />
-<br />
-<br />
-<!-- <details> -->
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.preveenraj.vercel.app/api?username=preveenraj&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&text_color=3498db" />
-<!-- </details> -->
+### Languages & tools
 
-[![Top Langs](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=preveenraj&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
+<img alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img alt="CSS3" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img alt="JavaScript" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img alt="React" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img alt="Node.js" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img alt="SQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+<img alt="MySQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img alt="Git" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img alt="Terminal" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
-[![My wakatime stats](https://github-readme-stats.preveenraj.vercel.app/api/wakatime?username=preveenraj&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
+<br>
 
-[website]: https://preveenraj.com
-[twitter]: https://twitter.com/preveen_raj
-[instagram]: https://instagram.com/preveen.raj
-[linkedin]: https://linkedin.com/in/preveenraj
+![GitHub stats](https://github-readme-stats.preveenraj.vercel.app/api?username=preveenraj&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&text_color=3498db)
+
+[![Top languages](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=preveenraj&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
+
+[![GitHub streak](https://streak-stats.demolab.com/?user=preveenraj&hide_border=true&background=00000000&ring=3498db&fire=3498db&currStreakLabel=3498db&sideLabels=3498db&dates=3498db&currStreakNum=3498db&sideNums=3498db)](https://git.io/streak-stats)
+
+### Trophies
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=preveenraj&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preveenraj/preveenraj/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preveenraj/preveenraj/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid as an animated snake" src="https://raw.githubusercontent.com/preveenraj/preveenraj/output/github-contribution-grid-snake.svg">
+</picture>
