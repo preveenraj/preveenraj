@@ -46,17 +46,3 @@
 [![Top languages](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=preveenraj&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
 
 [![GitHub streak](https://streak-stats.demolab.com/?user=preveenraj&hide_border=true&background=00000000&ring=3498db&fire=3498db&currStreakLabel=3498db&sideLabels=3498db&dates=3498db&currStreakNum=3498db&sideNums=3498db)](https://git.io/streak-stats)
-
-### Trophies
-
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=preveenraj&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preveenraj/preveenraj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preveenraj/preveenraj/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid as an animated snake" src="https://raw.githubusercontent.com/preveenraj/preveenraj/output/github-contribution-grid-snake.svg">
-</picture>
