@@ -25,6 +25,12 @@
 [<img alt="LinkedIn" width="22" src="https://img.icons8.com/color/2x/linkedin.png">](https://linkedin.com/in/preveenraj)
 [<img alt="Instagram" width="22" src="https://img.icons8.com/fluent/2x/instagram-new.png">](https://instagram.com/preveen.raj)
 
+### Portfolio
+
+GitHub profile READMEs cannot embed live websites (only images and links), so this is a **fresh screenshot** of [**preveenraj.com**](https://preveenraj.com/) — click the image to open the real site.
+
+[![preveenraj.com — portfolio preview; click to visit the live site](https://image.thum.io/get/width/1200/crop/675/noanimate/https://preveenraj.com)](https://preveenraj.com/)
+
 ### Languages & tools
 
 #### Languages & frameworks
